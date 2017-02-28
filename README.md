@@ -10,6 +10,7 @@ Note mass and mass2 are from a second independent source and should be identical
 Ok, so here are my ideas
 
 First i want to reproduce the boxplot we had in your paper, i.e. get the average slope among all whole class, then means for orders, families, genera. If the slope decreases then its as we expect, though the phylogenetic correction seems to suggest it increases. 
+(note: i just checked, almost no genera, and very few families have sample sizes greater than 4, so this method might not work)
 
 Second i want to try to repeat this analysis but instead using each mode of the phylogeny as an independent point. We should know node age (from the phylo), and we get all subsequent tips below this node and calculate the slope. Repeat for each node, and we should be able to produce a scatter plot. Node age vs slope. 
 
