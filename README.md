@@ -15,7 +15,7 @@ First i want to reproduce the boxplot we had in your paper, i.e. get the average
 Second i want to try to repeat this analysis but instead using each mode of the phylogeny as an independent point. We should know node age (from the phylo), and we get all subsequent tips below this node and calculate the slope. Repeat for each node, and we should be able to produce a scatter plot. Node age vs slope. 
 
 ########################################################
-You fucken nailed this idea - with your code. Boom done. 
+#You fucken nailed this idea - with your code. Boom done. 
 ########################################################
 
 Finally, i want to figure out whether being upright responds faster to becoming larger than to becoming smaller (make sense?) 
