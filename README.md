@@ -22,7 +22,7 @@ Finally, i want to figure out whether being upright responds faster to becoming 
 
 So i want to identify a series of nodes where the (mean / predicted ancestral) body size has increased over time, and also those that have decreased over time. Plot node age and mass, get slope, compare to node age vs eff slope. Do this for series where body size increases vs decreases, to see if species, once upright resist returning to crouched posture? 
 
-#########################################################
+#new code
 
 I wrote some code at the end of the new script i uploaded which illustrate what i mean by this third point. 
 I looked for groups which show a strong relationship between mass and eff. The strongest appears to be in primates (we should send this onto your zoo friend!) 
